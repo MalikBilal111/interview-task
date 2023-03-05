@@ -1,1 +1,1 @@
-# softoo-interview-task
+# interview-task
