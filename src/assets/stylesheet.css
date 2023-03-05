@@ -1,0 +1,12 @@
+:root {
+    --main-bg-color: white;
+}
+
+body {
+    background-color: var(--main-bg-color);
+}
+
+.quantity-input{
+        text-align: center;
+        width: 80px;
+}
